@@ -4,7 +4,7 @@
 - 🛩️ I'm also interested in programming, designing, web development, linux, and gaming
 - 🌱 I’ve recently learnt how to double knot my shoelaces and I am super proud ✨✨
 - 💞️ I’m looking to collaborate on projects involving multiwavelength and radio sky surveys
-- 📫 How to reach me [web](https://star.herts.ac.uk/~sdas) [twitter](https://twitter.com/_soumyadeepdas) [google scholar](https://scholar.google.com/citations?user=h0V-Gi4AAAAJ&hl=en) [insta](https://www.instagram.com/lordparthurnaax/)
+- 📫 Get in touch! [web](https://star.herts.ac.uk/~sdas) - [twitter](https://twitter.com/_soumyadeepdas) - [google scholar](https://scholar.google.com/citations?user=h0V-Gi4AAAAJ&hl=en) - [insta](https://www.instagram.com/lordparthurnaax/)
 
 <!---
 sdasrc/sdasrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
